@@ -14,8 +14,24 @@ May these be useful to you in your journey towards being a master Clarity progra
 
 
 
-**## Tutorials & Notebooks**
+**## 1. Tutorials & Notebooks**
 
-**## Example Contracts**
+**### a. [Clarity Notebook](https://github.com/oiclid/clarity-resources/tree/main/clarity-notebook)**
+Original repo, by [lgalabru](https://github.com/lgalabru), can be found [here](https://github.com/lgalabru/clarity-notebook). 
+A set of Jupyter notebooks for getting started with Clarity.
+
+**## 2. Example Contracts**
+**### b. [stx-future](https://github.com/oiclid/clarity-resources/tree/main/stx-future)**
+Original repo, by [jcnelson](https://github.com/jcnelson), can be found [here](https://github.com/jcnelson/stx-future)
+A Clarity smart contract for creating futures tranches for Stacked STX.
+
+
 
 **## Important Links**
+a. [stacks.co](https://stacks.co)
+b. [stacks.tools](https://stacks.tools)
+c. The official Clarity [website](https://clarity-lang.org)
+d. The Clarity language [reference](https://github.com/clarity-lang/reference)
+e. Clarity language [overview](https://github.com/clarity-lang/overview)
+f. Web based IDE and REPL for [Clarity](https://clarity.tools)
+g. Unofficial Stacks developer resource [kit](https://stacks.tools/)
