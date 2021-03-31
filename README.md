@@ -29,9 +29,18 @@ A Clarity smart contract for creating futures tranches for Stacked STX.
 
 **## Important Links**
 a. [stacks.co](https://stacks.co)
+
 b. [stacks.tools](https://stacks.tools)
+
 c. The official Clarity [website](https://clarity-lang.org)
+
 d. The Clarity language [reference](https://github.com/clarity-lang/reference)
+
 e. Clarity language [overview](https://github.com/clarity-lang/overview)
+
 f. Web based IDE and REPL for [Clarity](https://clarity.tools)
+
 g. Unofficial Stacks developer resource [kit](https://stacks.tools/)
+
+h. [Speed Spend](https://www.speed-spend.org/) An [opensource](https://github.com/friedger/starter-app) web app with the purpose of helping everybody quickly test the Stacks Testnet.
+
