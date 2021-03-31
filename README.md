@@ -28,6 +28,7 @@ A Clarity smart contract for creating futures tranches for Stacked STX.
 
 
 **## Important Links**
+
 a. [stacks.co](https://stacks.co)
 
 b. [stacks.tools](https://stacks.tools)
